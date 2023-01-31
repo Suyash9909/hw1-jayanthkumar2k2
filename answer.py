@@ -8,6 +8,7 @@ def number():
     """
        This is to review numbers and basic operations.
        """
+    print("hello")
     # Write the value 4 to the power of 5 and assign it to variable x.
     x =
     # Write the value x divided by 3 and assign it to variable y.
